@@ -30,7 +30,7 @@
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px" height="50px"/></a>
-<a><img src="https://github.com/devicons/devicon/tree/master/icons/pycharm" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50px" height="50px"/></a>
 <br>
