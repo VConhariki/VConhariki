@@ -13,7 +13,7 @@
 
 ### Technologies I like
 <p align="center">
-<a href="https://www.archlinux.org/"><img src="https://www.archlinux.org/logos/archlinux-icon-crystal-64.svg" width="50px" height="50px"/></a>
+<a href="https://www.ubuntu.org/"><img src="https://www.archlinux.org/logos/ubuntu-icon-crystal-64.svg" width="50px" height="50px"/></a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" height="50px"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px" height="50px"/></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px"/></a>
