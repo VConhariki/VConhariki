@@ -12,6 +12,7 @@
 </p>
 
 ### Technologies I like
+<!--
 <p align="center">
 <a href="https://www.ubuntu.org/"><img src="https://www.archlinux.org/logos/ubuntu-icon-crystal-64.svg" width="50px" height="50px"/></a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" height="50px"/></a>
@@ -24,7 +25,7 @@
 <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50px" height="50px"/></a>
 </p>
 <br>
-
+-->
 ### Stats
 
 <a href="https://github.com/vconhariki">
