@@ -40,9 +40,7 @@
 
 <a href="https://github.com/vconhariki">
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=vconhariki&theme=monokai" width="770px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vconhariki&layout=compact&langs_count=8&theme=monokai" height="175px"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=vconhariki&theme=monokai" height="175px"/>
   </p>
 </a>
 
