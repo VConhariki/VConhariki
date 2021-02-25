@@ -2,7 +2,7 @@
 ### Vagner Conhariki
 <p>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=vconhariki&redirect=true">
-    <img align="right" width="200" src="https://spotify-github-profile.vercel.app/api/view?uid=vconhariki&cover_image=true">
+    
   </a>
 
 - 🔭 I’m currently working on:
