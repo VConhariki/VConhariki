@@ -13,20 +13,27 @@
 
 ### Technologies I like
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px" height="50px"/></a>
-<!--
-<p align="center">
-<a href="https://www.ubuntu.org/"><img src="https://www.archlinux.org/logos/ubuntu-icon-crystal-64.svg" width="50px" height="50px"/></a>
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" height="50px"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px" height="50px"/></a>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px"/></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="50px" height="50px"/> </a>
-<a href="https://atom.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="50px" height="50px"/></a>
-<a href="https://github.com/vconhariki"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50px" height="50px"/></a>
-<a href="https://www.anaconda.com/"><img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" width="50px" height="50px"/></a>
-<a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50px" height="50px"/></a>
-</p>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/tree/master/icons/pycharm" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50px" height="50px"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50px" height="50px"/></a>
 <br>
--->
 ### Stats
 
 <a href="https://github.com/vconhariki">
