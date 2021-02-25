@@ -39,6 +39,4 @@
 <a><img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width="50px" height="50px"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" width="50px" height="50px"/></a>
 <br>
-### Stats
-
 [vconhariki]: https://github.com/vconhariki
