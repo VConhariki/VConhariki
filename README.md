@@ -35,7 +35,7 @@
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" width="50px" height="50px"/></a>
 <a><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50px" height="50px"/></a>
 <a><img src="https://miro.medium.com/max/512/0*zUlSG8EuHsKS-gdm.png" width="50px" height="50px"/></a>
-<a><img src="https://miro.medium.com/max/512/0*zUlSG8EuHsKS-gdm.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width="50px" height="50px"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width="50px" height="50px"/></a>
 <a><img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" width="50px" height="50px"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" width="50px" height="50px"/></a>
 <br>
