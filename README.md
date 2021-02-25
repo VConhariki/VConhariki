@@ -32,6 +32,9 @@
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50px" height="50px"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/1280px-Xamarin-logo.svg.png" width="150px" height="65px"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" width="50px" height="50px"/></a>
+<a><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50px" height="50px"/></a>
+<a><img src="https://miro.medium.com/max/512/0*zUlSG8EuHsKS-gdm.png" width="50px" height="50px"/></a>
 <br>
 ### Stats
 
