@@ -12,6 +12,7 @@
 </p>
 
 ### Technologies I like
+[[https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png]]
 <!--
 <p align="center">
 <a href="https://www.ubuntu.org/"><img src="https://www.archlinux.org/logos/ubuntu-icon-crystal-64.svg" width="50px" height="50px"/></a>
@@ -26,13 +27,6 @@
 </p>
 <br>
 -->
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-<i class="programming lang-ruby"></i>
-<i class="programming lang-javascript"></i>
-<i class="programming lang-cpp"></i>
-<i class="programming lang-typescript"></i>
-<i class="programming lang-python"></i>
-<i class="programming lang-kotlyn"></i>
 ### Stats
 
 <a href="https://github.com/vconhariki">
