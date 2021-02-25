@@ -1,10 +1,12 @@
 
 ### Vagner Conhariki
 <p>
+  <a>
 - 🔭 I’m currently working on:
 - 🌱 I’m currently learning: Neural Networks (MLP).
 - 💬 Ask me about: Computer Science and Games
 - ⚡ Fun fact:
+  </a>
 </p>
 
 ### Technologies I like
