@@ -26,6 +26,7 @@
 </p>
 <br>
 -->
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 <i class="programming lang-ruby"></i>
 <i class="programming lang-javascript"></i>
 <i class="programming lang-cpp"></i>
