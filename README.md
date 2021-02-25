@@ -5,10 +5,10 @@
     
   </a>
 
-- 🔭 I’m currently working on:
-- 🌱 I’m currently learning: Neural Networks (MLP).
-- 💬 Ask me about: Computer Science and Games
-- ⚡ Fun fact:
+- 🔭 I’m currently working at: Ouro Safra LTDA.
+- 🌱 I’m currently learning: Xamarin
+- 💬 Ask me about: Life, the Universe and Everything
+- ⚡ Fun fact: seven ate nine
 </p>
 
 ### Technologies I like
@@ -51,10 +51,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=vconhariki&cover_image=true"/>
-</p>
 
 wakatime
 -->
