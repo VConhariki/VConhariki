@@ -12,6 +12,7 @@
 </p>
 
 ### Technologies I like
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px" height="50px"/></a>
 <!--
 <p align="center">
 <a href="https://www.ubuntu.org/"><img src="https://www.archlinux.org/logos/ubuntu-icon-crystal-64.svg" width="50px" height="50px"/></a>
