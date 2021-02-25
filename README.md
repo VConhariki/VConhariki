@@ -31,7 +31,7 @@
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50px" height="50px"/></a>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/1280px-Xamarin-logo.svg.png" width="50px" height="50px"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/1280px-Xamarin-logo.svg.png" width="80px" height="50px"/></a>
 <br>
 ### Stats
 
