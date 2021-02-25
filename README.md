@@ -12,7 +12,6 @@
 </p>
 
 ### Technologies I like
-[[https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png]]
 <!--
 <p align="center">
 <a href="https://www.ubuntu.org/"><img src="https://www.archlinux.org/logos/ubuntu-icon-crystal-64.svg" width="50px" height="50px"/></a>
