@@ -38,5 +38,6 @@
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width="50px" height="50px"/></a>
 <a><img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width="50px" height="50px"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" width="50px" height="50px"/></a>
+<a><img src="http://assets.stickpng.com/images/5847f289cef1014c0b5e486b.png" width="50px" height="50px"/></a>
 <br>
 <br>
