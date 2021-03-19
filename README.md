@@ -6,7 +6,7 @@
   </a>
 
 - 🔭 I’m currently working at: Ouro Safra LTDA.
-- 🌱 I’m currently learning: Flutter
+- 🌱 I’m currently learning: Blazor
 - 💬 Ask me about: Life, the Universe and Everything
 - ⚡ Fun fact: seven ate nine
 </p>
