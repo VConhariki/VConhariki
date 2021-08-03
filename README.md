@@ -16,7 +16,6 @@
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" width="50px" height="50px"/></a>
-<a><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50px" height="50px"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="50px" height="50px"/></a>
