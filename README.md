@@ -5,7 +5,7 @@
     
   </a>
 
-- 🔭 I’m currently working at: Ouro Safra LTDA.
+- 🔭 I’m currently working at: AgiBank.
 - 🌱 I’m currently learning: Flutter
 - 💬 Ask me about: Life, the Universe and Everything
 - ⚡ Fun fact: seven ate nine
