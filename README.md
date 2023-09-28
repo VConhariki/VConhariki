@@ -19,6 +19,5 @@
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px" height="50px"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" width="50px" height="50px"/></a>
 <a><img src="https://github.com/VConhariki/id_app/blob/master/assets/dart_logo.png" width="50px" height="50px"/></a>
-<a><img src="[https://github.com/VConhariki/id_app/blob/master/assets/dart_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353751%2Fflutter&psig=AOvVaw3t9aiAgNe_mdWgiCOULLoZ&ust=1696025885902000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjVyvWqzoEDFQAAAAAdAAAAABAI)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353751%2Fflutter&psig=AOvVaw3t9aiAgNe_mdWgiCOULLoZ&ust=1696025885902000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjVyvWqzoEDFQAAAAAdAAAAABAI" width="50px" height="50px"/></a>
 <br>
 <br>
